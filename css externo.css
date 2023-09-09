@@ -1,0 +1,29 @@
+#div_pai {
+    background-color: #13002d;
+    width: 206vh;
+    height: 200px;
+}
+
+.divB {
+    background-color: #16003c;
+    width: 900px;
+    height: 350px;
+
+}
+
+.textoC {
+    background-color: #2b0761;
+    color: #ffffff;
+    font-size: 25;
+    font-family: monospace;
+}
+#divD {
+    background-color: #4c064a;
+    width: 600px;
+    height: 60vh;
+}
+.divE {
+    width: 100vh;
+    height: 60%;
+    background-color:rgb(100, 27, 79);
+}
