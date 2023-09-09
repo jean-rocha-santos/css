@@ -14,15 +14,15 @@
     <div id="div_pai" style="background-color: #ffa500 ;width: 500px;height: 500px;">
         <div class="div B" style="background-color: #1ef705;width: 250px;height: 250px;">
 
-            <h1 style="color: #ffffff;background-color: #e10505;font-size: 25px;font-family: monospace;">
-                <strong></strong>Texto</h1>
+            <p style="color: #ffffff;background-color: #e10505;font-size: 25px;font-family: monospace;">
+                <strong>Texto</strong></p>
 
         </div>
 
     </div>
     </div>
-    <div id="div_d" style="background-color: #4852e0; width: 500px;height: 50vh;">
-        <div class="div E" style="width: 75%vh;height: 50%; background-color:rgb(255, 0, 0);">
+    <div id="div_d" style="background-color: #4852e0; width: 50%;height: 50vh;">
+        <div class="div E" style="width: 75vw;height: 50%; background-color:rgb(255, 0, 0);">
 
         </div>
 
